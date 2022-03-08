@@ -1,0 +1,16 @@
+{
+  "name": "export-and-download-csv-file-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fast-csv": "^4.3.6"
+  }
+}
